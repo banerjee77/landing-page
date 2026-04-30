@@ -1,0 +1,40 @@
+/* All the CSS code goes down here */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-section {
+    background-color: #1f2937;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-left,
+.navbar-right {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-left {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    display: flex;
+}
+
+.header-links {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 12px;
+}
