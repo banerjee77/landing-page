@@ -68,7 +68,7 @@ h1 {
     font-size: 18px;
     color: #e5e7eb;
     width: 400px;
-    margin-bottom: 12px;
+    margin-bottom: 20px;
 }
 
 img {
@@ -78,8 +78,9 @@ img {
 .btn-one {
     background-color: #3882f6;
     color: #f9faf8;
-    width: 100px;
+    width: 150px;
     height: 50px;
     border: 1px solid #3882f6;
     border-radius: 10px;
+    font-size: 18px;
 }
