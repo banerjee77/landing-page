@@ -113,3 +113,32 @@ h2 {
     text-align: center;
     margin-top: 10px;
 }
+
+.third-section {
+    height: 500px;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.main-text {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    width: 800px;
+}
+
+.sub-text {
+    width: 800px;
+    /* border: 2px solid #000; */
+    display: flex;
+}
+
+.quote-text {
+    font-size: 22px;
+    font-weight: 900;
+    margin-left: auto;
+}
