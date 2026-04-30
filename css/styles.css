@@ -38,3 +38,48 @@ ul {
     color: #e5e7eb;
     margin: 12px;
 }
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.main-content-left,
+.main-content-right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.main-content-left {
+    margin-left: 400px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    width: 300px;
+}
+
+.para-one {
+    font-size: 18px;
+    color: #e5e7eb;
+    width: 400px;
+    margin-bottom: 12px;
+}
+
+img {
+    margin-bottom: 150px;
+}
+
+.btn-one {
+    background-color: #3882f6;
+    color: #f9faf8;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #3882f6;
+    border-radius: 10px;
+}
